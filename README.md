@@ -7,3 +7,5 @@ Factors that influence heart disease are body cholesterol levels, smoking habit 
 Heart disease can be predicted based on various symptoms such as age, gender, heart rate, etc. and reduces the death rate of heart patients.
 
 Due to the increasing use of technology and data collection, we can now predict heart disease using machine learning algorithms.
+
+I trained a model for the task of heart disease prediction using Machine Learning and I used the Logistic Regression algorithm to train the model.
